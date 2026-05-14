@@ -4,7 +4,7 @@ A full-stack crowdfunding platform built using **Vanilla HTML5, CSS3, JavaScript
 
 ## 🚀 Live Demo
 
-🔗 [**View Live Demo**](https://supportify-mt47.up.railway.app/)
+🔗 [**View Live Demo**](https://mt-47.github.io/supportify-platform/)
 
 ---
 
